@@ -1,0 +1,8 @@
+{
+	"database": "mysql://guacamole:xxxxxxxxxxxx@127.0.0.1/guacamole",
+	"default-hostname": "127.0.0.1",
+	"decryption-keys": [ "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" ],
+	"guacamole-url": "https://example.com/guacamole",
+	"port": 8480,
+	"secure-cookie": true
+}

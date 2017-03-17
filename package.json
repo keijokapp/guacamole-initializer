@@ -1,0 +1,17 @@
+{
+  "name": "guacamole-initializer",
+  "version": "0.9.0",
+  "description": "Guacamole initializer",
+  "main": "index.js",
+  "author": "Keijo Kapp <keijo.kapp@gmail.com>",
+  "license": "MIT",
+  "bin" : "./index.js",
+  "dependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-stage-3": "^6.22.0",
+    "jsonschema": "^1.1.1"
+    "sequelize": "^3.30.2",
+    "winston": "^2.3.1",
+  }
+}
